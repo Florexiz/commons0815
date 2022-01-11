@@ -1,0 +1,7 @@
+// Add your dependencies here
+
+dependencies {
+    compile("li.cil.oc:OpenComputers:MC1.7.10-1.7.5.1356:api")
+
+    //compileOnly(sourceSets["optifine_dummy"].output)
+}
